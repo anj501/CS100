@@ -1,3 +1,4 @@
+# Directions recieved from instructor
 # Lab 1: Setting up your Development Environment
 
 > Author(s): Andrew Lvovsky (@borninla) and Brian Crites (@brrcrites). Updated by Neftali Watkinson (@neftaliw) and Reem Ali (@reem-ali)
